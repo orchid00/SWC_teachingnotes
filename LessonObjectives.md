@@ -23,6 +23,16 @@ In order to formulate good learning objectives we need to decide what kinds of l
 ### Bloom's Taxonomy 
 Bloom's taxonomy is a set of three hierarchical models used to classify educational learning objectives into levels of complexity and specificity. This table shows the cognitive domain or knowledge-based domain of learning and provides examples of typical learning objective verbs that address each level.
 
+|Desired Learning Outcome|Learning Objective Verbs|
+|:---:|:---:|
+|knowledge|name, define, recall|
+|comprehension|restate, locate, explain, recognize|
+|application|apply, demonstrate, use|
+analysis|differentiate, criticize, compare|
+|synthesis|design, construct, organize|
+|evaluation|choose, rate, select|
+
+
 ### Exercise: Think, pair, and share to evaluate SWC and DC learning objects
 
 Complete the following steps to evaluate real learning objectives from current SWC and DC lessons and then reword them. 
