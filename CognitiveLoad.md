@@ -26,56 +26,65 @@ https://github.com/ngs-docs/2016-adv-begin-shell-genomics#renaming-a-bunch-of-fi
 ##Rayna's Faded examples
 Titus used this command to test renaming the filename with the .fastq extension and with the .fq extension. Here, we loop through all the .fastq files in a directory. Then we use the function basename to replace the .fastq with .fq for all files. Then we use echo mv to print the original name (i)  and the newname (newname) to the screen as a test before really renaming the file name. 
 
+```
 for i in *.fastq
 do
    newname=$(basename $i .fastq).fq
    echo mv $i $newname
 done
+```
 
 Here's my faded example where use rename principles to call R1 and R2s
 
 1. Let's just loop through R1 reads  
+```
 for i in *_______  
 do  
    newname=$(basename $i .fastq).fq  
    echo mv $i $newname  
 done  
+```
 
 Solution
+```
 for i in *R1.fastq  
 do  
    newname=$(basename $i .fastq).fq  
    echo mv $i $newname  
 done  
-
+```
 2. Rename all R1 files to R2 files  
+```
 for i in *R1.fastq  
 do  
    newname=$(basename $i ._______).________  
    echo mv $i $newname  
 done  
-
+```
 Solution  
+```
 for i in *R1.fastq  
 do  
    newname=$(basename $i R1.fastq)R2.fastq  
    echo mv $i $newname  
 done  
-
+```
 3. Let's replace i and newname with better variable names that are more representative of the files we are working with, in this case, R1 and R2.
+```
 for ___ in *R1.fastq
 do
    _____=$(basename $___ R1.fastq)R2.fastq
    echo mv $____ $____
 done
-
+```
 Solution  
+```
 for R1 in *R1.fastq  
 do  
    R2=$(basename $R1 R1.fastq)R2.fastq  
    echo mv $R1 $R2  
 done  
-
+```
 We would rename our R1s to R2s, but this is one way to get the R1s and the R2 on the same line following a function for which we might want to do something to R1 and R2 reads.
 
 ##ggplot2 example
