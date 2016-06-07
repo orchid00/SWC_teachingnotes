@@ -121,7 +121,7 @@ His work consists of evaluating physical properties of soil samples from differe
 
 Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file, and how to use R to read these files and calculate the required statistics. It will also show him how to put his programs and files under version control so that he can re-run analyses and figure out which results may have been affected by changes.
 
-All our lessons are designed for novices with no background. However, we collect pre-workshop surveys that are designed to collect this information and more about the students. This information will be given to insturctors and can help you tailor your workshop more specifically to the audience. 
+All our lessons are designed for novices with no background. However, we collect pre-workshop surveys that are designed to collect this information and more about the students. This information will be given to instructors and can help you tailor your workshop more specifically to the audience. 
 
 ## Key Points.
 - Communicate lesson goals by writing specific, verifiable learning objectives.
@@ -129,4 +129,6 @@ All our lessons are designed for novices with no background. However, we collect
 - Software Carpentry's most commonly used lessons cover the Unix shell, version control, and programming.
 - Data Carpentry's lessons cover data cleanup, management, analysis, and visualization in a variety of fields.
 - Collecting learner profiles can help clarify the audience for a lesson.
+
+
 
