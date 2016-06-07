@@ -35,7 +35,11 @@ The following learning objectives were taken from actual SWC and DC lesson. Pick
 6. Share your re-worded learning objectives in the Etherpad. 
 
 **Real SWC and DC Learning Objectives**
-- [Python Ecology Lesson:](https://github.com/datacarpentry/python-ecology-lesson/blob/gh-pages/04-merging-data.md) learn how to join two DataFrames together using a uniqueID found in both DataFrames (taken from the 
--  
-- 
+- [DC Python Ecology Lesson -](https://github.com/datacarpentry/python-ecology-lesson/blob/gh-pages/04-merging-data.md) join two DataFrames together using a uniqueID found in both DataFrames 
+- [SWC Programming with Python -](http://swcarpentry.github.io/python-novice-inflammation/04-files.html) use a library function to get a list of filenames that match a simple wildcard pattern
+- [SWC R for Reproducible Scientific Analysis -](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html) understand the basics of the aesthetics layer and the geometry layer of a ggplot2
+- [SWC Unix Shell Lesson -](http://swcarpentry.github.io/shell-novice/04-loop.html) explain why spaces and some punctuation characters shouldn’t be used in file names 
+- [SWC Programming with MATLAB -](http://swcarpentry.github.io/matlab-novice-inflammation/06-defensive.html) - explain what an assertion is
+- [SWC Version Control with Git](http://swcarpentry.github.io/git-novice/07-github.html) push to and pull from a remote repository
+- [SWC Instructor Training - ](http://swcarpentry.github.io/instructor-training/07-memory/) construct a concept map for a short lesson showing the lesson's key ideas and the relationships between them
 
