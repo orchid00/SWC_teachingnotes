@@ -17,7 +17,6 @@ Think something you did this week (wrote a function, bulk downloaded data, did s
 Have you ever taken a class where the professor spent way to long teaching you a "really cool trick" that you found useless? By evaluating the utility and time to master, you can avoid this in your classroom.
 
 
-
 2. Identify Motivational Strategies used in a lesson.
 Let me give you an example. In the Unix lesson, we teach grep with a haiku. Its a great didatic tool, but it can be hard for people to see how to translate that to their research. For bioinformatics folks, after we cover multiple flags in grep, I show them a one liner that combines head, grep, sort, and unique to produce a ranked list of the most abundant sequences. This way, I connect my users with domain-specific examples using an authentic task that is relevant to their research.  
 
@@ -44,8 +43,6 @@ Summarize
 	- give students the opportunity to reflect	
 	
 	
-
-
 
 3. Demotivation
 A few common demotivators are indifference and unfairness. We want to make sure that students know that we care about them and that we will treat everyone in the classroom fairly.  Its also important not to put on airs, which could indicate that you think that you are better than they are. 
@@ -83,7 +80,6 @@ A few concrete teaching strategies  to implement these ideas are:
  - Expose students to positive, successful role models from their group.
  - Support students’ sense of belonging.
  - Give feedback emphasizing your high standards while assuring that students can meet those expectations.
- 
  
  
  
