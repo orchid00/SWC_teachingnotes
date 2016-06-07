@@ -1,8 +1,8 @@
-Motivation and Demotivation
+#Motivation and Demotivation
 
 This next session is about motivation and demotivation.
 
-1. Classify Skills According to time required to master and utility once mastered. 
+## 1. Classify Skills According to time required to master and utility once mastered. 
 People learn best when they are passionate about learning the topic. We are oftening teaching computational skills to people he computation as mearly a means to and end. They aren't necessarily thrilled about coding, they just know they have to. 
 
 Imagine a figure with time to master on the x and utility once mastere on the why. In software carpentry and data carpentry, our moto is "first teach the things that can be quickly mastered and are immediately useful". We explicitly do not teach the things that are hard to master and aren't (broadly) very useful. 
@@ -17,7 +17,7 @@ Think something you did this week (wrote a function, bulk downloaded data, did s
 Have you ever taken a class where the professor spent way to long teaching you a "really cool trick" that you found useless? By evaluating the utility and time to master, you can avoid this in your classroom.
 
 
-2. Identify Motivational Strategies used in a lesson.
+## 2. Identify Motivational Strategies used in a lesson.
 Let me give you an example. In the Unix lesson, we teach grep with a haiku. Its a great didatic tool, but it can be hard for people to see how to translate that to their research. For bioinformatics folks, after we cover multiple flags in grep, I show them a one liner that combines head, grep, sort, and unique to produce a ranked list of the most abundant sequences. This way, I connect my users with domain-specific examples using an authentic task that is relevant to their research.  
 
 ### Exercise: 
@@ -44,7 +44,7 @@ Summarize
 	
 	
 
-3. Demotivation
+## 3. Demotivation
 A few common demotivators are indifference and unfairness. We want to make sure that students know that we care about them and that we will treat everyone in the classroom fairly.  Its also important not to put on airs, which could indicate that you think that you are better than they are. 
 
 - Things you should NOT do
@@ -66,7 +66,7 @@ If people believe that competence in some area is intrinsic, they figure they ju
 2. What other things did I not mention were demotivators? What happened? What could have been done differently?	
 
 
-4. Stereotype threat
+## 4. Stereotype threat
 The biggest negative stereotypes in computing are gender-related. Depending on whose numbers you trust, only 12-18% of programmers are women. But there are plenty of others related to ethnicity, socio-economic status, previous experience, sexual orientation, and more. 
 
 Here are some strategies for mitigating stereotype threat.
@@ -83,7 +83,7 @@ A few concrete teaching strategies  to implement these ideas are:
  
  
  
-5. Imposter Syndrome
+## 5. Imposter Syndrome
 Impostor syndrome is the belief that one is not good enough for a job or position.
 
 Two ways of dealing with your own impostor syndrome are:
@@ -100,17 +100,14 @@ Never go alone!!! One way to support at-risk learners of all kinds is to have pe
 
 Read the testimonials from other instructors, and then write a short explanation of what motivates you to volunteer to teach. This will be good for you to do before you teach a workshop but also to include in your teaching statment. http://swcarpentry.github.io/instructor-training/guide/#testimonials
 
-
-6. Accessibility
+## 6. Accessibility
 How often do you press the "handicap button" to open a door when you are pushing a large cart or carrying a million things? As an event planner, I do this all the time, and even though I'm not handicapped, I know exactly which doors are handicap accessible and which are not all over my campus.  Likewise, I'm not a vegetarian, but I try to have veggie options for lunch. 
 
 While it may not be possible to accommodate everyone’s needs, it is possible to get a good working structure in place without any specific knowledge of what specific disabilities people might have. Having at least some accommodations prepared in advance also makes it clear that hosts and instructors care enough to have thought about problems in advance, and that any additional concerns are likely to be addressed.
 
 When hosting a workshop, thing about the little things you can do to accomodate the learners, whether it large font for serving hot water instead of coffee. Is there parking for people who will have to drive? Wifi for those who aren't members? By showing that you have thought of these things, you show the learners that you care about their access to these resources. 
 
-
-
-7. Recap and Key Points:
+## 7. Recap and Key Points:
 - People learn best when they are intrinsically motivated.
 - The two biggest demotivators are indifference and unfairness.
 - Teach what's most immediately useful first in order to gain learners' trust.
@@ -118,4 +115,3 @@ When hosting a workshop, thing about the little things you can do to accomodate 
 - Teaching and learning in groups helps foster community and success
 - Belief that competence comes with practice improves learning outcomes.
 - Measures taken to improve accessibility aid everyone.
-
