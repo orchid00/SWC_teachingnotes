@@ -67,13 +67,13 @@ A similar “backward” method works very well for lesson design. As described 
 
 This reverse instructional design method helps keep teaching focused on its objectives. It also ensures that learners don’t face anything on the final exam that the course hasn’t prepared them for. When writing the lessons themselves, Wiggins and McTighe use the acronym WHERETO:
 
-**Where**: ensure that learners see the big picture, can answer “why?” questions, and know the final performance expectations as soon as possible.
-**Hook**: immerse learners in the lesson’s ideas and issues.
-**Equip**: provide learners with the tools, skills, and information needed to be successful in the upcoming formative assessment.
-**Rethink**: consider different perspectives, challenge their prior assumptions, etc.
-**Evaluate**: ensure that the learners and the instructor get actionable feedback from the formative assessment.
-**Tailor**: find ways to personalize learning through differentiated instruction and/or assessment.
-**Organize**: put the episodes in sequence.
+**Where**: ensure that learners see the big picture, can answer “why?” questions, and know the final performance expectations as soon as possible.  
+**Hook**: immerse learners in the lesson’s ideas and issues.  
+**Equip**: provide learners with the tools, skills, and information needed to be successful in the upcoming formative assessment.  
+**Rethink**: consider different perspectives, challenge their prior assumptions, etc.  
+**Evaluate**: ensure that the learners and the instructor get actionable feedback from the formative assessment.  
+**Tailor**: find ways to personalize learning through differentiated instruction and/or assessment.  
+**Organize**: put the episodes in sequence.  
 
 ## SWC and DC Lesson Development
 The lesson materials for Software and Data Carpentry are hosted on GitHub:
@@ -115,11 +115,9 @@ Learner profiles have three parts:
 
 A learner profile for Software Carpentry might be:
 
-João is an agricultural engineer doing his masters in soil physics. His programming experience is a first year programming course using C. He was never able to use this low-level programming into his activities, and never programmed after the first year.
-
-His work consists of evaluating physical properties of soil samples from different conditions. Some of the soil properties are measured by an automated device that sends logs in a text format to his machine. João has to open each file in Excel, crop the first and last quarters of points, and calculate an average.
-
-Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file, and how to use R to read these files and calculate the required statistics. It will also show him how to put his programs and files under version control so that he can re-run analyses and figure out which results may have been affected by changes.
+- João is an agricultural engineer doing his masters in soil physics. His programming experience is a first year programming course using C. He was never able to use this low-level programming into his activities, and never programmed after the first year.
+- His work consists of evaluating physical properties of soil samples from different conditions. Some of the soil properties are measured by an automated device that sends logs in a text format to his machine. João has to open each file in Excel, crop the first and last quarters of points, and calculate an average.
+- Software Carpentry will show João how to write shell scripts to count the lines and crop the right range for each file, and how to use R to read these files and calculate the required statistics. It will also show him how to put his programs and files under version control so that he can re-run analyses and figure out which results may have been affected by changes.
 
 All our lessons are designed for novices with no background. However, we collect pre-workshop surveys that are designed to collect this information and more about the students. This information will be given to instructors and can help you tailor your workshop more specifically to the audience. 
 
