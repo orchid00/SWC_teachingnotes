@@ -23,7 +23,6 @@ My personal favorite example of a step-by-step how rename files in Unix as writt
 
 https://github.com/ngs-docs/2016-adv-begin-shell-genomics#renaming-a-bunch-of-files
 
-##Rayna's Faded examples
 Titus used this command to test renaming the filename with the .fastq extension and with the .fq extension. Here, we loop through all the .fastq files in a directory. Then we use the function basename to replace the .fastq with .fq for all files. Then we use echo mv to print the original name (i)  and the newname (newname) to the screen as a test before really renaming the file name. 
 
 ```
@@ -34,9 +33,12 @@ do
 done
 ```
 
-Here's my faded example where use rename principles to call R1 and R2s
+##Rayna's Faded examples
 
-1. Let's just loop through R1 reads  
+Here's my faded example where using the rename principle that Titus built up to, with a modification to echo move R1 reads to R2 reads
+
+**Fade 1 Exercise** Modify the code to only read read 1 (R1) .fastq files rather than all .fastq files.
+
 ```
 for i in *_______  
 do  
@@ -45,7 +47,7 @@ do
 done  
 ```
 
-Solution
+**Fade 1 Solution**
 ```
 for i in *R1.fastq  
 do  
@@ -53,7 +55,11 @@ do
    echo mv $i $newname  
 done  
 ```
-2. Rename all R1 files to R2 files  
+
+Here, the important part is that only the first line of the code is modified. The basename section stays the same
+
+**Fade 2 Exercise** Echo move all R1 files to R2 files  
+
 ```
 for i in *R1.fastq  
 do  
@@ -61,7 +67,7 @@ do
    echo mv $i $newname  
 done  
 ```
-Solution  
+**Fade 2 Solution**
 ```
 for i in *R1.fastq  
 do  
@@ -69,7 +75,10 @@ do
    echo mv $i $newname  
 done  
 ```
-3. Let's replace i and newname with better variable names that are more representative of the files we are working with, in this case, R1 and R2.
+Now students see that they need to change what we are modifying with the basename command.
+
+**Fade 3 Exercise** Let's replace i and newname with better variable names that are more representative of the files we are working with, in this case, R1 and R2.
+
 ```
 for ___ in *R1.fastq
 do
@@ -77,7 +86,7 @@ do
    echo mv $____ $____
 done
 ```
-Solution  
+**Fade 3 Solution** 
 ```
 for R1 in *R1.fastq  
 do  
@@ -85,7 +94,10 @@ do
    echo mv $R1 $R2  
 done  
 ```
-We would rename our R1s to R2s, but this is one way to get the R1s and the R2 on the same line following a function for which we might want to do something to R1 and R2 reads.
+Here, students see that they need the change the variable name and all instances where the variable name is called.
+
+**Note:** I can't imagine when you would want to rename the R1s to R2s, but `echo mv` could easily be replaced with detailed commands for many bioinformatic programs.
+
 
 ##ggplot2 example
 Let's take a look at this in practice. Here's the link for a ggplot2 lesson using the Gapminder data set. The first goal is to plot life expectancy as a function of GDP per capita. The instructor walks through the three requirements for the ggplot function (data, aesthetics, and a geometry layer.) Challenge 1 ask asks the students to replace life expectancy with year.  This is a faded example, because its a fill in the blank. Then, you add a color by continent. Then ask the student to color instead by country. Then change geom_point to geom_line. Then add stats, facets, etc. 
