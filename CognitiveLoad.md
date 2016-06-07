@@ -15,17 +15,6 @@ Linguistic and visual input are processed by different parts of the human brain 
 **Step-by-stp solutions followed by faded examples**
 According to cognitive load theory, searching for a solution strategy is an extra burden on top of applying that strategy. We can therefore accelerate learning providing a  detailed step-by-step solution to a problem, followed by a series of faded examples. The first of these presents a nearly-complete use of the same problem-solving strategy just demonstrated with a small number of blanks for the learner to fill in. The next problem is also of the same type, but has more blanks, and so on until the learner is asked to solve the entire problem.
 
-**ggplot2 example**
-
-Let's take a look at this in practice. Here's the link for a ggplot2 lesson using the Gapminder data set. The first goal is to plot life expectancy as a function of GDP per capita. The instructor walks through the three requirements for the ggplot function (data, aesthetics, and a geometry layer.) Challenge 1 ask asks the students to replace life expectancy with year.  This is a faded example, because its a fill in the blank. Then, you add a color by continent. Then ask the student to color instead by country. Then change geom_point to geom_line. Then add stats, facets, etc. 
-
-http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html
-
-Personally, I think the lesson could be a little bit better. You can give the students this cheatsheet, you could see how they could create their own faded example. However, you can see how you can build a step, then ask to fill in the blank, and repeat.
-
-For more examples see the cheatsheet for understanding how one could build a lesson step by step then use faded examples. 
-
-http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
 
 **Titus's Advanced Beginner Shell Example**
 My personal favorite example of a step-by-step how rename files in Unix as written by Titus Brown. 
@@ -87,6 +76,17 @@ done
 
 We would rename our R1s to R2s, but this is one way to get the R1s and the R2 on the same line following a function for which we might want to do something to R1 and R2 reads.
 
+**ggplot2 example**
+
+Let's take a look at this in practice. Here's the link for a ggplot2 lesson using the Gapminder data set. The first goal is to plot life expectancy as a function of GDP per capita. The instructor walks through the three requirements for the ggplot function (data, aesthetics, and a geometry layer.) Challenge 1 ask asks the students to replace life expectancy with year.  This is a faded example, because its a fill in the blank. Then, you add a color by continent. Then ask the student to color instead by country. Then change geom_point to geom_line. Then add stats, facets, etc. 
+
+http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html
+
+Personally, I think the lesson could be a little bit better. You can give the students this cheatsheet, you could see how they could create their own faded example. However, you can see how you can build a step, then ask to fill in the blank, and repeat.
+
+For more examples see the cheatsheet for understanding how one could build a lesson step by step then use faded examples. 
+
+http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
 
 **Faded Example Exercise**
 1. Get in groups of 2 or 3. 
