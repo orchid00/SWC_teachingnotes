@@ -5,7 +5,9 @@ This next session is about motivation and demotivation.
 ## 1. Classify Skills According to time required to master and utility once mastered. 
 People learn best when they are passionate about learning the topic. We are oftening teaching computational skills to people he computation as mearly a means to and end. They aren't necessarily thrilled about coding, they just know they have to. 
 
-Imagine a figure with time to master on the x and utility once mastere on the why. In software carpentry and data carpentry, our moto is "first teach the things that can be quickly mastered and are immediately useful". We explicitly do not teach the things that are hard to master and aren't (broadly) very useful. 
+Imagine a figure with time to master on the x and utility once mastere on the why. In software carpentry and data carpentry, our moto is "first teach the things that can be quickly mastered and are immediately useful". We explicitly do not teach the things that are hard to master and aren't (broadly) very useful.
+
+![Figure](https://github.com/raynamharris/SWC_teachingnotes/tree/master/MotivationDemotivation1.png) 
 
 We try to have learners do something that is useful within the first 15 of each lesson. This will motivate them and boost their confidence, which will help them get over humps when working topics that are harder to master.
 
@@ -43,7 +45,6 @@ Summarize
 	- give students the opportunity to reflect	
 	
 	
-
 ## 3. Demotivation
 A few common demotivators are indifference and unfairness. We want to make sure that students know that we care about them and that we will treat everyone in the classroom fairly.  Its also important not to put on airs, which could indicate that you think that you are better than they are. 
 
