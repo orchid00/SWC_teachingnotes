@@ -28,6 +28,9 @@ As instructors, we can present or have the students make concept makes that expl
 3. Let's look at the relationship between touch rm mv mkdir and rmdir rm -r
 http://swcarpentry.github.io/instructor-training/fig/05/create-destroy.png
 
+The abover example was created by my colleage. I created this one.  
+<img src="images/ExpertiseMemory1.png" title="Concept Map" style="display: block; margin: auto;" />
+
 ##Concept map exercise
 1. Create a hand drawn concept map for something you would teach in five minutes. (Possibly for the same subject that you used to create a multiple choice question before.)
 2. Get in groups of two or three. One person will speak while another one films. 
