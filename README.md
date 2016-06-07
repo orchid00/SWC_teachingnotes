@@ -8,7 +8,7 @@ Below are my notes as well as a link to the actual lessons.
 - Expertise & Memory [My Notes](ExpertiseMemory.md)   [The Lesson](http://swcarpentry.github.io/instructor-training/07-memory/)
 - Performance Revisited [My Notes](PerformanceRevisited.md)   [The Lesson](http://swcarpentry.github.io/instructor-training/09-performance/)
 - Cognitive Load [My Notes](CognitiveLoad.md)   [The Lesson](http://swcarpentry.github.io/instructor-training/10-load/)
-- Motivation & Demotivation [My Notes](Motivation.md)   [The Lesson](http://swcarpentry.github.io/instructor-training/18-motivation/)
+- Motivation & Demotivation [My Notes](MotivationDemotivation.md)   [The Lesson](http://swcarpentry.github.io/instructor-training/18-motivation/)
 
 ## The Unix Shell
 My Notes [The Lesson](http://swcarpentry.github.io/shell-novice/)
