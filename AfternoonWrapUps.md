@@ -25,8 +25,7 @@ When called upon by the instructor, add one positive or one negative point to th
 1. What have we learned?
 2. What do you need to do now to become a certified instructor. 
 
-
-### Becoming A Certified Instructor
+### Becoming a Certified Instructor
 
 The final steps in qualifying as an instructor are to:
 
