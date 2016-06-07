@@ -28,13 +28,13 @@ When called upon by the instructor, add one positive or one negative point to th
 ### Becoming a Certified Instructor
 
 The final steps in qualifying as an instructor are to:
-
-1.  take part in a [discussion session](http://pad.software-carpentry.org/instructor-discussion) with experienced instructors, 
-2. Make a contribution to a lesson's content, exercises, or instructor's guide by doing **one of the following three tasks**:
+ 
+1. Make a contribution to a lesson's content, exercises, or instructor's guide by doing **one of the following three tasks**:
   1. Submitting a change request to fix an existing issue
   2. Proof-reading a lesson and adding a new issue describing something to be improved
   3. Providing substantive feedback on an existing issue or PR
-3.  do a 5-minute live coding demo.
+2. take part in a [discussion session](http://pad.software-carpentry.org/instructor-discussion) with experienced instructors
+3.  do a 5-minute live coding demo
 
 
 [This page](http://swcarpentry.github.io/instructor-training/checkout/) explains the procedure in detail; please review it with your instructor before you leave.
