@@ -7,7 +7,8 @@ People learn best when they are passionate about learning the topic. We are ofte
 
 Imagine a figure with time to master on the x and utility once mastere on the why. In software carpentry and data carpentry, our moto is "first teach the things that can be quickly mastered and are immediately useful". We explicitly do not teach the things that are hard to master and aren't (broadly) very useful.
 
-![Figure](https://github.com/raynamharris/SWC_teachingnotes/tree/master/MotivationDemotivation1.png) 
+![Figure](https://github.com/raynamharris/SWC_teachingnotes/tree/master/images/MotivationDemotivation1.png) 
+
 
 We try to have learners do something that is useful within the first 15 of each lesson. This will motivate them and boost their confidence, which will help them get over humps when working topics that are harder to master.
 
