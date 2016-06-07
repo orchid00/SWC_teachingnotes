@@ -26,13 +26,14 @@ Bloom's taxonomy is a set of three hierarchical models used to classify educatio
 
 ### Exercise: Think, pair, and share to evaluate SWC and DC learning objects
 
-The following learning objectives were taken from actual SWC and DC lesson. Pick one of the 
+Complete the following steps to evaluate real learning objectives from current SWC and DC lessons and then reword them. 
+
 1. Pick one of the learning objectives listed below. 
 2. Identify the learning objective verb. 
 3. Decide what type of learning outcome this applies to (i.e. comprehension, application, evaluation)
 4. Reword the learning objective for a different learning outcome (i.d. from application to knowledge based outcome or vice versa). 
-5. Pair up to discuss your rewording. 
-6. Share your re-worded learning objectives in the Etherpad. 
+5. Pair up to discuss your rewording. Help each other with point 3 or 4 if necessary. 
+6. Paste the original and your re-worded learning objectives in the Etherpad. 
 
 **Real SWC and DC Learning Objectives**
 - [DC Python Ecology Lesson -](https://github.com/datacarpentry/python-ecology-lesson/blob/gh-pages/04-merging-data.md) join two DataFrames together using a uniqueID found in both DataFrames 
