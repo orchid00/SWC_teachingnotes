@@ -1,5 +1,5 @@
-#################################################################
-########################### Overview ############################
+#########################################################################################
+###################################### Overview ########################################
 
 This is the script I use when teaching workshop. I view it on my computer as a text file, rather than the Github rendered version, so I recommend viewing with a text editor. 
 
@@ -12,8 +12,9 @@ For my setup, I have open my notes file, the etherpad, the current episode webpa
 
 For most exercises, I past all the students names in the blank space below the question prompt and clear the color coding. This gives a student a place to put their answer and gives me the ability to see who has and has not completed the exercise yet.
 
-#################################################################
-########################### Day 1 AM ############################
+##########################################################################################
+
+############################# Day 1 AM ##############################
 
 ## Instructor training for `Name of Workshop`   
 `Date and Time`   
@@ -24,7 +25,7 @@ Instructors: `Names`
 Sign in: Name, Institution, Email, Twitter (optional)
 
 
-########################### Welcome ############################
+############################### Welcome ##################################
 
 ## Welcome 
 
@@ -75,7 +76,7 @@ Which of these questions assesses flaws in a student's mental model of a domain?
 	- (c) Searches the input file for lines containing a match to a pattern 
 	- (d) Removes a given input from a line
 	
-########################### Assessment ############################	
+################################# Assessment ##################################	
 
 ## Novices and Formative Assessment
 
@@ -123,11 +124,12 @@ Watch this one minute YouTube video with peer-peer instruction: https://www.yout
 Exercise: Modeling Novice Mental Models
 Create a multiple choice question related to a topic you intend to teach and explain the diagnostic power of each its distractors (i.e., what misconception is each distractor meant to identify?)
 
-########################### Coffee Break ############################
+########################### Coffee Break ####################################
 
 ## Return in 15 min at `XX:XX`
 
-########################### Performance Art ############################	
+
+########################### Performance Art ##############################	
 
 ##Teaching as a Performance Art
 
@@ -176,7 +178,7 @@ Exercise: Video Feedback on your public speaking introduction
 Great teachers are made not born
 
 
-########################### Coffee Break ############################
+#########################  Morning Warp UP  ##############################
 
 ## Morning Wrap Up
 "Green and Red Stickie Notes"
@@ -185,7 +187,12 @@ https://goo.gl/forms/7V8AIegoVyOyKCDw1
 Return in 60 minutes at XX:XX
 
 
-########################### Day 1 PM ############################
+
+################################################################################# 
+
+###########################     Day 1 PM        ############################
+
+########################### Expertise & Memory   ########################
 
 ## Expertise and Memory
 
@@ -347,25 +354,34 @@ Exercise: Parsons Problem
 ########################### Afternoon Wrap UP ############################
 
 Homework 
-- Read the [operations guide](https://software-carpentry.org/workshops/operations/)
-- Read the lessons learned
-2. Install the base software carpentry software. Directions for installs on Windows, Mac OS X and Linux can be found [here](http://swcarpentry.github.io/workshop-template/)
+- Read the operations guide: https://software-carpentry.org/workshops/operations/
+- Read the lessons learned: http://swcarpentry.github.io/instructor-training/files/papers/wilson-lessons-learned-2016.pdf
+- Prepare to teach 5 minutes of one of the Software Carpentry or Data Carpentry lessons.
+	- SWC Lessons: https://software-carpentry.org/lessons/
+	- DC Lessons: http://www.datacarpentry.org/lessons/
+	- Instructions for installing base software carpentry software are here: http://swcarpentry.github.io/workshop-template/
 
-
+Questions?
 
 "Green and Red Stickie Notes"
 https://goo.gl/forms/7V8AIegoVyOyKCDw1
 
 
+#########################################################################################
+#########################################################################################
 
 
 ########################### Day 2 AM ############################
 
-## Day 2 Morning Overview
-- 09:30/08:30 Live Coding - Aim: 15 min Rayna talking 45 minutes of activity
-- 10:45/09:45 Morning Coffee
-- 11:00/10:00 The Carpentries -  Aim: 20 min Rayna talking/answering questions 40 minutes of activity
-- 12:00/11:00 Carpentry Teaching Practices -  Aim: 30 min Rayna talking/answering questions
+Day 2 Morning Overview
+- Live Coding 
+- Morning Coffee
+- The Carpentries 
+- Carpentry Teaching Practices 
+
+Sign in please
+
+########################### Live Coding ############################
 
 
 ## Live Coding
@@ -406,6 +422,7 @@ Negative Delivery -
 Return in 40 min at XX:XX
 
 
+########################### The Carpentries ###########################
 
 ## The Carpentries
 Software Carpentry (SWC) website: https://software-carpentry.org/lessons/
@@ -444,6 +461,9 @@ What was improved?
 What did not improve?
 
 Return in 30 min at XX:XX
+
+###########################  Carpentry Teaching Practices ###########################
+
 
 ## Carpentry Practices
 
