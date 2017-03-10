@@ -87,11 +87,11 @@ Novices, Competent Practitioners, and Experts
 
 Software Carpentry and Data Carpentry assume that all learners in our workshops are novices. We help them build a structure on which they can build and then learn more details. 
 
-*Exercise*               
+*Exercise*                    
 Exercise: Your mental models
 What is your primary research domain or speciality/expertise?  What is one mental model you use to frame and understand your work?  
 
-*Exercise*               
+*Exercise*                    
 Exercise: Manuals vs. Tutorials  
 What’s the difference between a manual and a tutorial? (Think in terms of the differences between novices and competent practitioners.) Can one document do a good job of being both?
 
@@ -107,11 +107,11 @@ b) 32
 c) 312
 d) 33
 
-*Exercise*      
+*Exercise*           
 Exercise: Identify the misconception
 Describe is the misconception associated with each wrong answer (distractor)?
 
-*Exercise*                  
+*Exercise*                       
 Exercise: Handling Outcomes   
 What should you do when, the class votes for 
 1. mostly the wrong answers?  
@@ -166,7 +166,7 @@ When requesting feedback from peers:
 - Ask for a compliment sandwhich of postive and negative things
 - Use a translator to help you interpret the meaning and significance
 
-*Exercise*               
+*Exercise*                    
 Exercise: Video Feedback on your public speaking introduction  
 - Split into groups of two or three. One person will use a phone to record the other speak, trading turns.
 - The first person introduce themselves in no more than 90 seconds while being recording.
@@ -257,7 +257,7 @@ Chunking
 	 
 ## Performance Revised
 
-*Exercise*                
+*Exercise*                     
 Excercise: Video record concept map
 - Break out into your groups and your concept map. 
 - This time, have one person record while the other speaks. 
@@ -333,7 +333,7 @@ def acronymize(words):
     ____
 
 
-*Exercise*               
+*Exercise*                    
 Exercise: Faded example
 - Pick a block of code from an existing Software or Data Carpentry lesson, or from another lesson you have taught recently.
 - Replace 2-3 pieces of the code with a blank.
@@ -407,7 +407,7 @@ Return in 15 min at XX:XX
 
 Quote: "The typos are the pedagogy" - Emily McTavish
 	
-*Exercise*               
+*Exercise*                    
 Exercise: Live coding in groups of two or three
 1. One person teach 3 minutes of a chosen lesson episode using live coding. Another group members sets a timer for 3 minutes.  
 2. Repeat step 1 for all group members.
@@ -452,7 +452,7 @@ Facebook: https://www.facebook.com/carpentries/
 SWC mailing lists and calendar: https://software-carpentry.org/join/
 DC discussion forum: http://discuss.datacarpentry.org/
 
-*Exercise*
+*Exercise*     
 Exercise: Live coding in groups of two or three. 
 1. One person teach 3 minutes of a chosen lesson episode using live coding. Another group members sets a timer for 3 minutes.  
 2. Repeat step 1 for all group members.
@@ -528,7 +528,7 @@ Think - 5 minutes
 Pair - 5 minutes 
 Share - 8 minutes 
 
-*Exercise*             
+*Exercise*                  
 Exercise: share a examine of a class where you were very motivated to learn and why
 
 Motivational Themes
@@ -544,7 +544,7 @@ Common pitfalls that instructors fall into
 - Pretending you know more than you really know
 - Using trivalizing language 
 
-*Exercise*             
+*Exercise*                  
 Exercise: Share an example of when you were demotived AND how the professor could have handled this differently
 
 Demotivational Themes
@@ -578,7 +578,7 @@ Learner-centered with backwards lesson design
 
 This is a bad learning object: Understand the rules of right of way when driving
 
-*Exercise*
+*Exercise*     
 Exercise: Better learning objectives  
 Improve this learning objective: Understand the rules of right of way when driving
 
