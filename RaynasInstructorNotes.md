@@ -124,12 +124,12 @@ Watch this one minute YouTube video with peer-peer instruction: https://www.yout
 Exercise: Modeling Novice Mental Models
 Create a multiple choice question related to a topic you intend to teach and explain the diagnostic power of each its distractors (i.e., what misconception is each distractor meant to identify?)
 
-########################### Coffee Break ####################################
+################################# CoffeeBreak ##################################	
+
 
 ## Return in 15 min at `XX:XX`
 
-
-########################### Performance Art ##############################	
+################################# PerformanceArt ##################################	
 
 ##Teaching as a Performance Art
 
@@ -177,8 +177,8 @@ Exercise: Video Feedback on your public speaking introduction
 
 Great teachers are made not born
 
+################################# MorningWrapUp ##################################	
 
-#########################  Morning Warp UP  ##############################
 
 ## Morning Wrap Up
 "Green and Red Stickie Notes"
@@ -190,9 +190,10 @@ Return in 60 minutes at XX:XX
 
 ################################################################################# 
 
-###########################     Day 1 PM        ############################
+################################# Day 1 PM ##################################	
 
-########################### Expertise & Memory   ########################
+################################# Expertise and Memory ##################################	
+
 
 ## Expertise and Memory
 
@@ -248,12 +249,12 @@ Exercise: The Serial Position Effect
 Chunking
 
 
-########################### Coffee Break ############################
+################################# Coffee Break ##################################
 
 15 minutes. Return at xx:xx
 
-########################### Performance Revised ############################
- 
+################################# Performance Revisited ##################################	
+	 
 ## Performance Revised
 
 *Exercise*    
@@ -280,7 +281,7 @@ How was the experience different?
 https://goo.gl/forms/7V8AIegoVyOyKCDw1
 
 
-########################### Cognitive Load ############################
+################################# Cognitive Load ##################################	
 
 Cognitive Load
 
@@ -350,8 +351,7 @@ Exercise: Parsons Problem
 - Jumble them,
 - Write a question that asks learner to unjumble them to do a specific tasks
 
-
-########################### Afternoon Wrap UP ############################
+################################# Afternoon Wrap Up ##################################	
 
 Homework 
 - Read the operations guide: https://software-carpentry.org/workshops/operations/
@@ -371,7 +371,8 @@ https://goo.gl/forms/7V8AIegoVyOyKCDw1
 #########################################################################################
 
 
-########################### Day 2 AM ############################
+################################# Day 2 AM ##################################	
+
 
 Day 2 Morning Overview
 - Live Coding 
@@ -381,8 +382,7 @@ Day 2 Morning Overview
 
 Sign in please
 
-########################### Live Coding ############################
-
+################################# Live Coding ##################################	
 
 ## Live Coding
 
@@ -422,7 +422,8 @@ Negative Delivery -
 Return in 40 min at XX:XX
 
 
-########################### The Carpentries ###########################
+################################# The Carpentries ##################################	
+
 
 ## The Carpentries
 Software Carpentry (SWC) website: https://software-carpentry.org/lessons/
@@ -462,7 +463,8 @@ What did not improve?
 
 Return in 30 min at XX:XX
 
-###########################  Carpentry Teaching Practices ###########################
+
+################################# Teaching Practices ##################################	
 
 
 ## Carpentry Practices
@@ -493,12 +495,18 @@ List one the Carpentries Teaching practices that your really like and/or are exc
 
 Complete in 2 min and we will discuss for 3 min.
 
+################################# MorningWrapUp ##################################	
+
 ## Morning Wrap Up
 "Green and Red Stickie Notes"
 https://goo.gl/forms/7V8AIegoVyOyKCDw1
+
+Return in 60 minutes at XX:XX
 	
 	
-########################### Day 2 PM ############################
+################################# Day 2 PM ##################################	
+
+
 
 
 
