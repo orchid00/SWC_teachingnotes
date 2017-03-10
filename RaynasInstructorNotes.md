@@ -24,8 +24,7 @@ Instructors: `Names`
 
 Sign in: Name, Institution, Email, Twitter (optional)
 
-
-############################### Welcome ##################################
+################################# Welcome ##################################	
 
 ## Welcome 
 
