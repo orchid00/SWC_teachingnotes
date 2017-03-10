@@ -1,5 +1,5 @@
 #########################################################################################
-###################################### Overview ########################################
+################################# Overview ##################################	
 
 This is the script I use when teaching workshop. I view it on my computer as a text file, rather than the Github rendered version, so I recommend viewing with a text editor. 
 
@@ -14,7 +14,8 @@ For most exercises, I past all the students names in the blank space below the q
 
 ##########################################################################################
 
-############################# Day 1 AM ##############################
+################################# Day 1 AM ##################################	
+
 
 ## Instructor training for `Name of Workshop`   
 `Date and Time`   
