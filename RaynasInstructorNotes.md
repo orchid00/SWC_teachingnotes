@@ -395,19 +395,19 @@ Note: This lesson serves as both a script for the instructor and a tutorial for 
 
 Quote: "Teaching is theatre not cinema." - Neal Davis
 
+*Exercise ~15 min*    
 Exercise: Evaluate your peer's live coding effectiveness
 1. Watch this video of poor live coding: https://youtu.be/bXxBeNkKmJE
 2. Watch this video of good live coding: https://youtu.be/SkPmwe_WjeY
-3. Create a list of "do's and don'ts" for live coding that you would like to emulate or avoid in your own live coding practice.
-
+3. Populate a list of "do's and don'ts" for live coding that you would like to emulate or avoid in your own live coding practice.
 Don'ts  
-
 Do's
+
+Return in 15 min at XX:XX  
 
 Quote: "The typos are the pedagogy" - Emily McTavish
 	
-Return in 15 min at XX:XX
-
+*Exercise*   
 Exercise: Live coding in groups of two or three
 1. One person teach 3 minutes of a chosen lesson episode using live coding. Another group members sets a timer for 3 minutes.  
 2. Repeat step 1 for all group members.
@@ -436,15 +436,15 @@ SWC - Founded in by 1998 by Brent Gorda and Greg Wilson
 DC - Founded in 2013 by Tracy Teal 
 
 Shared goals and approach:
-- Goal: fill gaps in computational training for researchers 
-- Goal: increase condience/motivation of learners to enable future learning
-- Approach: Volunteers teach 12-hr workshops around the globe
+Goal: fill gaps in computational training for researchers 
+Goal: increase condience/motivation of learners to enable future learning
+Approach: Volunteers teach 12-hr workshops around the globe
 
 SWC vs. DC
-- better programming skills vs. better data management/analysis/visualization skills
-- domain/subject agnostic vs. domain/subject specific
-- modular curriculum vs dataset- and language-driven curriculum
-- version control required vs version control not required
+better programming skills vs. better data management/analysis/visualization skills
+domain/subject agnostic vs. domain/subject specific
+modular curriculum vs dataset- and language-driven curriculum
+version control required vs version control not required
 
 A sense of community
 Twitter: https://twitter.com/swcarpentry https://twitter.com/datacarpentry
@@ -452,6 +452,7 @@ Facebook: https://www.facebook.com/carpentries/
 SWC mailing lists and calendar: https://software-carpentry.org/join/
 DC discussion forum: http://discuss.datacarpentry.org/
 
+*Exercise*
 Exercise: Live coding in groups of two or three. 
 1. One person teach 3 minutes of a chosen lesson episode using live coding. Another group members sets a timer for 3 minutes.  
 2. Repeat step 1 for all group members.
@@ -490,10 +491,10 @@ Some key practices
 - Code of conduct
 - We are not a Massive Open Online Course (MOOC)
 
-Teaching Practice Discussion
+*Exercise ~2 min*   
+Exercise: Teaching Practice Discussion
 List one the Carpentries Teaching practices that your really like and/or are excited to use.
 
-Complete in 2 min and we will discuss for 3 min.
 
 ################################# MorningWrapUp ##################################	
 
@@ -504,9 +505,143 @@ https://goo.gl/forms/7V8AIegoVyOyKCDw1
 Return in 60 minutes at XX:XX
 	
 	
+##########################################################################################	
 ################################# Day 2 PM ##################################	
 
 
+################################# Motivation Demotivation ################################	
+
+Strategies for Motivating Learners
+Teach things that are easily mastered and immediatly useful. 
+Give "immediate payoff" so students are continually mastering new things
+Inspire the students to keep using and learning these tools after the workshop
+
+Look at this figure http://swcarpentry.github.io/instructor-training/fig/what-to-teach.png
+
+*Exercise ~18 min*   
+Exercise: Useful and easy to learn
+- Think about something you did this week (e.g. wrote a function, bulk downloaded data, did some stats in R, forked a repo), and determine how useful this thing is and how hard it was to learn
+- Pair up with your neighbor and decide where this thing fits on  2x2 grid of “short/longtime to master” and “low/high usefulness”? 
+- In the class Etherpad, share the task and where it fits on the 2x2 grid. 
+
+Think - 5 minutes 
+Pair - 5 minutes 
+Share - 8 minutes 
+
+*Exercise* 
+Exercise: share a examine of a class where you were very motivated to learn and why
+
+Motivational Themes
+- Instructor accessibility (seating arrangement, one-on-one talking)
+- real-world applicability
+- hands-on activities that engage learners and have built-in formative assessment
+
+How do we make sure that we don't (accidentally) demotivate our learners?
+
+Common pitfalls that instructors fall into
+- Negatively commenting on learner tools 
+- Going down a nitty-gritty rabbit hole with advanced learners
+- Pretending you know more than you really know
+- Using trivalizing language 
+
+*Exercise* 
+Exercise: Share an example of when you were demotived AND how the professor could have handled this differently
+
+Demotivational Themes
+- being rude
+- being boring
+- doesn't convey the utility
+- dissmissive comments
+- saying a student is wrong without addressing that its a common misconception
+
+Dealing with Impostor syndrome
+
+Accessibility
+- Our opperations guide has a checklist to make sure that our workshops are accessibily to all learners that may need special accomdations: http://www.datacarpentry.org/accessibility/
+- Reach out and ask the learners if they have special needs. 
 
 
+################################# Lessons Objectives ##################################	
 
+## Lessons and Objectives
+
+How can I design more effective lessons?
+What lessons do Software and Data Carpentry currently contain?
+
+Learning Objectives
+
+Each learning objective should have a measurable or verifiable verb specifying what the learner will do, and should specify the criteria for acceptable performance. 
+
+Learner-centered with backwards lesson design
+- concrete outcomes (learning obejectives)
+- practice with feedback (formative assessment) until desired outcome is achieved
+
+This is a bad learning object: Understand the rules of right of way when driving
+
+*Exercise*
+Exercise: Better learning objectives  
+Improve this learning objective: Understand the rules of right of way when driving
+
+Software and Data Carpentry Lessons
+
+Our lessons are continually being improved after instructors teach them. 
+
+Data Carpentry:
+Genomics (cloud computing, UNIX, dataviz): http://datacarpentry.org/lessons/#genomics-workshop
+Ecology or other tabular data (most popular with broadest reach) http://datacarpentry.org/lessons/#ecology-workshop
+Geospatial data: http://datacarpentry.org/lessons/#geospatial-data-workshop
+IN prep: Social science http://datacarpentry.org/lessons/#social-science-materials
+In prep: Semester long http://datacarpentry.org/semester-biology/
+In prep: Reproducible reasearch with R: http://www.datacarpentry.org/rr-intro/
+In prep: Reproducible reasearch with Jupyter Notebooks: https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
+
+Software Carpentry (see https://software-carpentry.org/lessons/ for links to all lessons)
+UNIX
+Git
+R
+Python
+SQL
+Matlab
+Automation & Make 
+
+################################# Coffee Break ##################################
+
+15 minutes. Return at xx:xx
+
+################################# Final Steps ##################################
+
+## Final Steps to Checkout
+
+Instructor training checkout (checklist version): http://www.datacarpentry.org/checkout/
+Instructor training checkout (detailed version): http://swcarpentry.github.io/instructor-training/checkout/
+
+- Step 1: submit a contribution to a lesson and email Erin (ebecker@datacarpentry.org) once complete
+	- Can be a pull request via Github (actively editing)
+	- Or submit an issue to one of the lesson on github (contibute to discussion)
+	- Or contribute to an ongoing conversation about an existing pull request or issue 
+	- Example: Shell repository https://github.com/swcarpentry/shell-novice
+	- One option: submit your multiple choice exercise, faded example, or parsons problem
+	-	Another option: submit your revised learning objectives
+	- Keep in mind: maintainers may ask you to suggest what large contributions should change
+- Step 2: Attend at least one discussion session
+	- Sign up here: http://pad.software-carpentry.org/instructor-discussion
+	- Listen and learn from instructors in the community
+	- Held twice a week
+- Step 3: Attend a teaching demo session
+	- Sign up here: http://pad.software-carpentry.org/teaching-demos
+	- Teach for 5 minutes
+	- Get and give feedback
+- Note: If you want to be certified to teach both data and software carpentry, we should do Steps 1 and 3 for both data and software carpentry 
+
+Sign up for your discussion now! http://pad.software-carpentry.org/instructor-discussion
+
+
+################################# WrapUp ##################################	
+
+## Workshop Wrap Up
+"Green and Red Stickie Notes"
+https://goo.gl/forms/7V8AIegoVyOyKCDw1
+
+Thanks! 
+
+############################################################################
