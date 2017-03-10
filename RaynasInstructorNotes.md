@@ -15,11 +15,11 @@ For most exercises, I past all the students names in the blank space below the q
 #################################################################
 ########################### Day 1 AM ############################
 
-## Instructor training for <Name of Workshop>
-<Date and Time>
-Website with detailed schedule and information: <Link>
-Link to connect: <Link>
-Instructors: <Names>
+## Instructor training for `Name of Workshop`   
+`Date and Time`   
+Website with detailed schedule and information: `Link`   
+Link to connect: `Link`   
+Instructors: `Names`   
 
 Sign in: Name, Institution, Email, Twitter (optional)
 
