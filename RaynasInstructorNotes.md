@@ -126,8 +126,9 @@ Create a multiple choice question related to a topic you intend to teach and exp
 
 ################################# CoffeeBreak ##################################	
 
+## Coffee Break
 
-## Return in 15 min at `XX:XX`
+Return in 15 min at `XX:XX`
 
 ################################# PerformanceArt ##################################	
 
@@ -251,6 +252,8 @@ Chunking
 
 ################################# Coffee Break ##################################
 
+## Coffee Break
+
 15 minutes. Return at xx:xx
 
 ################################# Performance Revisited ##################################	
@@ -283,7 +286,7 @@ https://goo.gl/forms/7V8AIegoVyOyKCDw1
 
 ################################# Cognitive Load ##################################	
 
-Cognitive Load
+## Cognitive Load
 
 Inquiry-based Learning
 
@@ -353,6 +356,8 @@ Exercise: Parsons Problem
 
 ################################# Afternoon Wrap Up ##################################	
 
+## Afernoon Wrap Up
+
 Homework 
 - Read the operations guide: https://software-carpentry.org/workshops/operations/
 - Read the lessons learned: http://swcarpentry.github.io/instructor-training/files/papers/wilson-lessons-learned-2016.pdf
@@ -373,6 +378,7 @@ https://goo.gl/forms/7V8AIegoVyOyKCDw1
 
 ################################# Day 2 AM ##################################	
 
+## Day 2
 
 Day 2 Morning Overview
 - Live Coding 
@@ -511,6 +517,8 @@ Return in 60 minutes at XX:XX
 
 ################################# Motivation Demotivation ################################	
 
+## Motivation and Demotivation
+
 Strategies for Motivating Learners
 Teach things that are easily mastered and immediatly useful. 
 Give "immediate payoff" so students are continually mastering new things
@@ -605,6 +613,8 @@ Matlab
 Automation & Make 
 
 ################################# Coffee Break ##################################
+
+## Coffee Break
 
 15 minutes. Return at xx:xx
 
