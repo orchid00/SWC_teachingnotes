@@ -113,7 +113,7 @@ Describe is the misconception associated with each wrong answer (distractor)?
 
 *Exercise*                       
 Exercise: Handling Outcomes   
-What should you do when, the class votes for 
+What should the instructor do when, the class votes for: 
 1. mostly the wrong answers?  
 2. mostly the right answer?  
 3. an even spread between options?
@@ -598,7 +598,7 @@ Data Carpentry:
 Genomics (cloud computing, UNIX, dataviz): http://datacarpentry.org/lessons/#genomics-workshop
 Ecology or other tabular data (most popular with broadest reach) http://datacarpentry.org/lessons/#ecology-workshop
 Geospatial data: http://datacarpentry.org/lessons/#geospatial-data-workshop
-IN prep: Social science http://datacarpentry.org/lessons/#social-science-materials
+In prep: Social science http://datacarpentry.org/lessons/#social-science-materials
 In prep: Semester long http://datacarpentry.org/semester-biology/
 In prep: Reproducible reasearch with R: http://www.datacarpentry.org/rr-intro/
 In prep: Reproducible reasearch with Jupyter Notebooks: https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/
@@ -610,7 +610,12 @@ R
 Python
 SQL
 Matlab
-Automation & Make 
+Automation & Make
+
+*Exercise*     
+Exercise: Better learning objectives  
+Improve or modify a learning objective from the lesson you live coded. Paste the existing and your revised learning objective in the etherpad.
+ 
 
 ################################# Coffee Break ##################################
 

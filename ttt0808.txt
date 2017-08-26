@@ -1,0 +1,34 @@
+Scott Martin http://swcarpentry.github.io/python-novice-inflammation/02-loop/
+Jonathan Greenberg http://swcarpentry.github.io/shell-novice/03-create/
+Jake Carlson- http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/
+Andrew Winters http://swcarpentry.github.io/shell-novice/03-create/
+William Close http://swcarpentry.github.io/shell-novice/03-create/
+Jamie Estillhttp://swcarpentry.github.io/sql-novice-survey/03-filter/
+Daniel Gatti: http://swcarpentry.github.io/sql-novice-survey/02-sort-dup/
+Kayla Peck: https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+Dave Bridges http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/
+Gregg TeHennepe: https://swcarpentry.github.io/shell-novice/03-create/
+Zena Lapp: https://swcarpentry.github.io/python-novice-inflammation/02-loop/
+Nick Lesniak https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+Jose Roberto Bermudez Barrientos https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+Nelly Sélem https://swcarpentry.github.io/shell-novice/03-create/
+Daniela Ledezma https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+Shirley Alquicira: http://swcarpentry.github.io/git-novice/03-create/
+Romualdo Zayas-Lagunas - https://swcarpentry.github.io/shell-novice/03-create/
+Rosa Maria Gutierrez Rios  http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries/
+Ana Beatriz Villaseñor Altamirano
+Veronica Jimenez Jacinto: http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+Kevin Alquicira http://www.datacarpentry.org/python-ecology-lesson/02-index-slice-subset/
+charles wray http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html
+Irma Martínez http://swcarpentry.github.io/shell-novice/03-create/
+Hely Salgado https://swcarpentry.github.io/sql-novice-survey/01-select/
+Laura Gómez  https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+Karen Nuñez http://swcarpentry.github.io/shell-novice/
+Dagoberto Armentahttp://swcarpentry.github.io/r-novice-inflammation/03-loops-R/
+Luis Lozanohttps://swcarpentry.github.io/shell-novice/03-create/
+leticia vega alvarado http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+Georgi Kolishovski
+Nancy Gonzalez http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data
+Paul Grochowskihttp://swcarpentry.github.io/shell-novice/03-create/
+Kelly LaRue http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data
+Stephanie Miller https://swcarpentry.github.io/shell-novice/03-create/
