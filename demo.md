@@ -25,23 +25,23 @@
 
 ## Liderando una sesión de Demostración de Enseñanza
 
-- Confirme que todo el mundo está en la llamada con audio y vídeo de trabajo
+- Confirme que todos estén en la llamada con audio y vídeo funcionando
 - Introducir y explicar brevemente el Código de Conducta
 - Explicar el procedimiento para la sesión de demostración:
-    - los alumnos enseñarán usando la codificación en vivo durante 5 minutos de episodio seleccionado de la lección indicada
-    - todos los participantes proporcionarán retroalimentación siguiendo la rúbrica positiva-vs-negativa y de contenido-vs-presentación utilizada en la formación
+    - los demostradores enseñarán usando codificación en vivo durante 5 minutos, un episodio seleccionado de la lección indicada
+    - todos los participantes proporcionarán retroalimentación siguiendo la rúbrica positiva-vs-negativa y de contenido-vs-presentación utilizada en la formación de instructores
     - el instructor moderará una breve discusión sobre la enseñanza y la retroalimentación
-- Presentar el episodio asignado al primer alumno.
+- Presentar el episodio asignado al primer demostrador.
     - Déles un momento para leer el episodio y hacer una pantalla compartida.
     - Déles una cuenta regresiva 3-2-1 para comenzar.
-    - Finalizar la demostración con un sonido de un temporizador de cuenta atrás o decir "bong" en voz alta.
+    - Finalizar la demostración con un sonido de un temporizador de cuenta atrás o decir "tiempo" en voz alta.
 - Recopilar comentarios
-    - Haga que todos escriban sus comentarios al lado del nombre de su propio nombre debajo del del demostrador
+    - Por cada demostrador, haga que todos escriban sus comentarios indicando su nombre 
     - Resuma brevemente la demostración y la retroalimentación
-    - Pregunte cómo ellos mismos pensaron que fue,
+    - Pregunte cómo ellos mismos pensaron que les fue,
     luego dé una retroalimentación constructiva basada en sus notas
-    - No le diga al aprendiz si pasaron o fracasaron. En su lugar, enviará un mensaje de correo electrónico una vez finalizada la sesión.
-- Envolver
+    - No le diga al demostrador si pasó o no la demostración durante la sesión. Luego, envíe un mensaje de correo electrónico una vez finalizada la sesión.
+- Finalizar
     - Hacer preguntas generales
     - Avisar a los alumnos que el Etherpad será archivado y que su participación será registrada
     - Recordar a los alumnos de los recursos y oportunidades de la comunidad
